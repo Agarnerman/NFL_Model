@@ -15,6 +15,7 @@ Version 1: The initial version of the model trains a KNeighborsClassifier model 
 It also iterates through seasons 2021-2023 and weeks 1-18 to evaluate the model's performance, while analizing the nearest neighbors for test data points.
 You would then change the bottom portion of the code for whatever week of games is upcoming, and input the spread and total lines.
 Note that the model currently is noticably better at prediciting Unders rather than Overs.
+
 Version 2: The second version incorporated several improvements, including:
 LOF: Local Outlier Factor was used to identify and handle outliers in the data.
 Pipelines: Pipelines were implemented to streamline the data preprocessing and modeling process.

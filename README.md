@@ -3,7 +3,7 @@ Project Overview:
 
 This repository contains the source code and data for an NFL betting model. The model was developed to predict the outcomes of NFL games based on historical data.
 
-As of 09/22/2024 it has a 68% success rate.
+As of 10/04/2024 it has a 64% success rate.
 
 Data Acquisition:
 

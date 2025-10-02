@@ -4,7 +4,7 @@ Project Overview:
 This repository contains the source code and data for an NFL betting model. The model was developed to predict the outcomes of NFL games based on historical data.
 It has now been updated for the 2025 NFL season. Currently it is in beta, with more fine tuning like weighted games and seasons coming in the next weeks
 
-As of 10/04/2024 it has a 64% success rate. (OUTDATED)
+As of 10/04/2024 it has a 64% success rate.
 
 Data Acquisition:
 

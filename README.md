@@ -2,8 +2,9 @@
 Project Overview:
 
 This repository contains the source code and data for an NFL betting model. The model was developed to predict the outcomes of NFL games based on historical data.
+It has now been updated for the 2025 NFL season. Currently it is in beta, with more fine tuning like weighted games and seasons coming in the next weeks
 
-As of 10/04/2024 it has a 64% success rate.
+As of 10/04/2024 it has a 64% success rate. (OUTDATED)
 
 Data Acquisition:
 
@@ -21,11 +22,7 @@ LOF: Local Outlier Factor was used to identify and handle outliers in the data.
 Pipelines: Pipelines were implemented to streamline the data preprocessing and modeling process.
 Scalers: Data scaling techniques were applied to ensure numerical features were on a similar scale.
 Masks: Masks were used to selectively include or exclude features during training and evaluation.
-Code Structure:
 
-[GatheringData.py],[ExtendingData.py]: Contains functions for scraping NFL data and Vegas lines.
-[NFLBettingModel.py]: Implements the first version of the model.
-[TweakedNFLModel.py]: Implements the second version of the model with improvements.
 
 Future Work:
 
